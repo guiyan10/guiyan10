@@ -13,7 +13,7 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 
 ---
 
-## 🏆 Conquistas e Reconhecimentos
+## 🏆 Conquistas
 
 - 🥇 **Selecionado como um dos 16 melhores projetos do SENAI em 2024**
 - 🥉 **Finalista em duas edições em eventos como Dev Experience e Senai para o Mundo**
