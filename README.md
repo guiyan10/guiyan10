@@ -7,16 +7,19 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 ## 📊 GitHub Stats
 
 <div align="center">
+  <div align="center">
+</div>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=guiyan10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiyan10&theme=dracula&langs_count=6&hide_border=true&layout=compact" height="150" alt="Linguagens mais usadas" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guiyan10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Linguagens%20mais%20usadas" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
 ## 🏆 Conquistas
 
-- 🥇 **Selecionado como um dos 16 melhores projetos do SENAI em 2024**
-- 🥉 **Finalista em duas edições em eventos como Dev Experience e Senai para o Mundo**
+- 🥇 *Selecionado como um dos 16 melhores projetos do SENAI em 2024*
+- 🥉 *Finalista em duas edições em eventos como Dev Experience e Senai para o Mundo*
 
 ---
 
@@ -43,7 +46,7 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 
 ---
 
-## ⚙️ Ferramentas
+## ⚙ Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -76,16 +79,16 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 ## 🚀 Projetos
 
 ### 📌 Vann
-> **Descrição**: Sistema desenvolvido para otimizar a rotina de condutores e oferecer tranquilidade aos pais, permitindo a visualização da rota em tempo real.
-> **Destaques**: Selecionado como um dos 16 melhores projetos do SENAI em 2024.
-> **Tecnologias**: PHP, Laravel, Javascript, React Native, React, CSS, HTML, Python, SQL.
-> **Meu Papel**: Atuei como desenvolvedor e co-líder do projeto, utilizando metodologias ágeis (Scrum) para gerenciar a equipe e garantir a entrega de um software de alta qualidade.
+> *Descrição*: Sistema desenvolvido para otimizar a rotina de condutores e oferecer tranquilidade aos pais, permitindo a visualização da rota em tempo real.
+> *Destaques*: Selecionado como um dos 16 melhores projetos do SENAI em 2024.
+> *Tecnologias*: PHP, Laravel, Javascript, React Native, React, CSS, HTML, Python, SQL.
+> *Meu Papel*: Atuei como desenvolvedor e co-líder do projeto, utilizando metodologias ágeis (Scrum) para gerenciar a equipe e garantir a entrega de um software de alta qualidade.
 
 ---
 
 ## 🎓 Formação e Experiência
 
-- 🎓 Formação técnica em Desenvolvimento de Sistemas pelo **SENAI**
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo **SENAI**
+- 🎓 Formação técnica em Desenvolvimento de Sistemas pelo *SENAI*
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo *SENAI*
 - 🏆 Experiência liderando equipes e projetos
 - 🏅 Participação em competições e eventos da área de tecnologia
