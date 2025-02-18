@@ -92,3 +92,8 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo *SENAI*
 - 🏆 Experiência liderando equipes e projetos
 - 🏅 Participação em competições e eventos da área de tecnologia
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" />
+</picture>
