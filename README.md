@@ -1,29 +1,37 @@
-# 📍 Prazer
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Yan.;I+am+a+Full+Stack+Developer.;Welcome+to+my+profile!)
+
+<h2 align="center">ABOUT ME</h2>
 
 Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho experiência no desenvolvimento de sistemas web e mobile, utilizando diversas tecnologias para criar soluções eficientes e inovadoras.
 
 ---
 
-## 📊 GitHub Stats
+> STATS
+
+<div align="center">  
+<img width=400 src="https://streak-stats.demolab.com?user=guiyan10&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=dark&ring=ADD8E6&fire=ADD8E6&sideNums=ADD8E6">
+<img height="155" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiyan10&hide_border=true&layout=compact&theme=dark&title_color=ADD8E6&text_color=ADD8E6&icon_color=ADD8E6"/>
+</div>
+<br>
+
+> MAIN SKILLS
 
 <div align="center">
-  <div align="center">
-</div>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=guiyan10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guiyan10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Linguagens%20mais%20usadas" height="150" alt="Linguagens mais usadas" />
+<img margin-top:50px src="https://skillicons.dev/icons?i=react,next,angular,ts,nodejs,php,laravel,mysql,python,bootstrap&perline=10" />
 </div>
 
 ---
 
-## 🏆 Conquistas
+> 🏆 Conquistas
 
 - 🥇 *Selecionado como um dos 16 melhores projetos do SENAI em 2024*
 - 🥉 *Finalista em duas edições em eventos como Dev Experience e Senai para o Mundo*
 
 ---
 
-## 🛠 Tecnologias
+> 🛠 Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -37,46 +45,21 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
 </div>
 
 ---
 
-## ⚙ Ferramentas
+> CONTACT
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Opera-BD0000?style=for-the-badge&logo=opera&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<div align="center">
+<a href = "mailto:guiyan.leite@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
+<a href="https://www.linkedin.com/in/guilherme-yan-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ---
 
-## 🔗 Onde me achar
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-yan-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:guiyan.leite@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 🚀 Projetos
+> 🚀 Projetos
 
 ### 📌 Vann
 > *Descrição*: Sistema desenvolvido para otimizar a rotina de condutores e oferecer tranquilidade aos pais, permitindo a visualização da rota em tempo real.
@@ -86,14 +69,19 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 
 ---
 
-## 🎓 Formação e Experiência
+> 🎓 Formação e Experiência
 
 - 🎓 Formação técnica em Desenvolvimento de Sistemas pelo *SENAI*
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo *SENAI*
 - 🏆 Experiência liderando equipes e projetos
 - 🏅 Participação em competições e eventos da área de tecnologia
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vitorantoniovieira/vitorantoniovieira/output/github-snake-dark.svg" />
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
