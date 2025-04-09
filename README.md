@@ -54,7 +54,7 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 
 <div align="center">
 <a href = "mailto:guiyan.leite@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a>
-<a href="https://www.linkedin.com/in/guilherme-yan-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiyan10&cache_bust=1&hide_border=true&layout=compact&theme=dark&title_color=ADD8E6&text_color=ADD8E6&icon_color=ADD8E6"/>
 </div>
 
 ---
@@ -75,6 +75,7 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pelo *SENAI*
 - 🏆 Experiência liderando equipes e projetos
 - 🏅 Participação em competições e eventos da área de tecnologia
+- 👨‍🎓 Desenvolvedor FullStack na visiontaubaté.
 
 ---
 
