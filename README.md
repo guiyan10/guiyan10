@@ -12,7 +12,7 @@ Sou Guilherme Yan, um programador Full Stack apaixonado por tecnologia. Tenho ex
 
 <div align="center">  
 <img width=400 src="https://streak-stats.demolab.com?user=guiyan10&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=dark&ring=ADD8E6&fire=ADD8E6&sideNums=ADD8E6">
-<img src="https://github-readme-stats.vercel.app/api?username=guiyan10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guiyan10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Linguagens%20mais%20usadas" height="150" alt="Linguagens mais usadas" />
 </div>
 <br>
 
